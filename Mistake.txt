@@ -1,0 +1,147 @@
+﻿Mistake or need manually processing:
+出 has got different pinyin as ts'eh (in appear) or t'seh  (most of time).
+Eat, 吃,  k’iuh, note the pin yin is different on page 22 as: Devour, 吞吃, t’un c’hiuh. 
+Dismayed, (to be) 吃驚,  ch’iuh kiung, 
+
+脾氣勿對, pí c’hí’ veh té’, note c'hi is different from k'i' for 氣 in most of cases.
+
+
+
+page 2: Afford, (can) 有力量, ‘yeu lih liang (vide Gram. P. 120, 2nd b). 
+page 7, 
+Barricade, (a) 柵攔sáh lah or lan, (to) 攔lah or lah dzû.
+PAGE 8, 
+Basket,   簏, lan,  籃頭, lan deu, 筐, k’ong, 簏, lóh, 篓,‘lieu. 
+
+below, remove "or", both 'au ti and ti au are give Chinese.
+
+first one should be 篮。
+page 9
+Bohea-tea,  武夷茶, ‘vú í dzó. 武夷茶 is correct name. 
+
+page 10:
+Bow, (to) t'song' 'zo. There is no Chinese characters for this entry. Remove it first. 
+
+
+Boil, v.i.  滚, ’kwun;  v.t.  燒滚, sau ‘kwun, (boilding) 滚,‘kwun.
+";" is used. Change ";" to ",". Put v.i. in "( )" to make it easy handle by python. 
+
+Bow, (to) t’song’ 'zó,  打恭, ‘tang kúng,  作揖, tsoh yih, (the head) 低倒頭, tí ‘tau deu. missing Chinese. 
+
+
+page 11, 
+brethren, add 弟兄
+
+page 13, Cannon, 
+Cat,  猫, mau or mang, comma is changed to "or". 
+
+page 14
+Ceremony, 禮素, ‘li sú’, 禮,  ‘lí.
+Call, change "or" to another pair of Chinese-pinyin, (to) 叫, kiau’, 叫,  kau’, 
+
+Character, 品行,  p’ing yung’, (a letter)字, zz’, 字眼,  zz’ ‘ngan’. The last pinying may not be correct.  is it possible to have 2 quotation marks?
+
+page 15
+clan， replace ";" with ",".
+
+page 16, Coat,  馬褂, ’mó kwó'. 
+
+Cold,  冷, ’láng , (in heart)冷淡,  ‘lang ‘dan; cold 傷風, song fúng. 
+
+Comfort, 安慰,  ön wé', (get) 得平安, tuh bing ön, 舒徐, sû zí, (zû) (comfort my thirsty desires) 慰我渴思,wé ‘ngú k’öh sz. 
+TODO: Two sets of (), need to handle it.
+
+Comply, missing a few Chinese words. Add words based on pinyin. 
+
+
+
+page 19, cuttle fish. The Chinese translation maybe not correct. 
+Use 墨鱼。 
+
+page 19, daughter: The Chinese should be 囡
+
+page 21 (book)
+Demand, (a debt) 討帳,   ‘t’au tsang", (an apology) 叫人話明白, kau’ niun wó’ ming báh, or kan’ niun bé veh ‘zz or kau’ niun  認niung’ veh ‘zz. 
+Change to 3 sentences.
+
+
+page 27:
+Dry, 乾, kûn, (dry in the sun) 晒乾 só’ kûn, (to dry clothes) 晒or 晾衣裳， long’ í zong, (wipe dry)揩乾, k’á kûn.  
+
+
+
+page 29
+Elsewhere, there is no Chinese characters for "bih dzang hau'". 
+
+
+page 30
+Enraged, 生氣, sang k'í’, 激怒, kih nú’.  激怒 should be correct. 澈怒 was not right.
+
+page 31:
+Entrails,  五臟六腑, ‘wú  zong’ lóh ‘fú, (心,sing (heart),  肝, kûn (liver), 脾,bí (coat of stomach), 肺,  fí’ (lung), 肾,  zun’(kidneys) – are the five upper viscera) 為五臟, wé ‘wú zong; (大腸,dá’ dzang, 小腸, ‘siau dzang, 胃,wé’ (stomach), 膀胱, bong kwong (bladder), 心胞絡,sing pau loh (covering of the heart), 膽, ‘tan (gall bladder) – are the six lower viscera) 為六腑, wé lóh ‘fú. 
+
+page 32
+Evangelist, 傳福音個, zén fóh yun  kú’. The dictionary has two extra pinyin. 
+
+page 36
+Falsehoud, 說謊, söh hwong, XX 茫,  ‘t’san mong. 
+a character seems not in any dictionary 
+
+page 37 
+Feed,  餵養, wé’ yang’. Original Chinese character is not right. 
+
+page 39
+Float,  漂流, p’iau lieu,  浮veu, 氽 , ‘t’ung.
+The last Chinese character is not right in book. 
+page 41. 
+Forsake, 離開, lí k’é, 棄脱,  k’í’  t’eh,  hwah t’eh, 丢脱, tieu t’eh.  
+Missing one Chinese term for (hwah t'eh). 
+
+
+page 47.
+harp: Chinese character is not right 棼 is not for harp. 
+
+page 49.
+
+Herbal. There is a sentence in "(..)".  Need to take care this case. 
+
+page 62.
+Liver: should be  lever,  杆。
+page 63. 
+(did likewise) 實蓋能做, ‘á zeh ké’ nung tsú. There are more pinying than characters. 
+
+page 65
+Lucraban, (seed)  大楓子,  tá’ fúng ‘tsz.  The English word is not correct and not found in anywhere!
+
+page 82 
+penetrate, missing  Chinese word for tsun t'eu'.
+
+Page 89.
+Priest,  tsi’ sz has only one Chinese word.
+Press, (upon), cannot find the Chinese character for “gah”. 
+
+page  101.
+Ridge, （of a house) 背房 vong tsih. should be 房脊
+
+
+page 110
+shame: t'an t’súng’ ngu. Cannot find character for  t’súng’!
+
+
+page 115
+Solve: 'ka t'eh ni woh. 解脱（？） 疑惑。t'eh was not given Chinese, found possible word in "sell", 卖脱。
+
+South: (on the south side) nen han'. There is no Chinese word for "han'". 
+
+page 134
+
+Truly, The Chinese characters for k'iah zeh should be 卻, not  郤 , which means a crack or opening. 
+
+page 143
+Village, The Chinese character for t'sun hong' seems to be 村巷。Cannot find the word for hong'.  
+
+page 148
+Wipe, (feather brush) 𢳛 'ton. this maybe not correct since Chinese character should be 掸. 
+
+page 150
+wrangle, use 鬥 not 𨷖, as it is the same meaning.
